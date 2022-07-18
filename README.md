@@ -13,11 +13,11 @@ let calvin = Person(
 );
 ```
 
+---
+
 - 🔭 I’m currently working on a mobile app (Cheerly)
 - 🌱 I’m currently learning about growth hacking
 - 👯 I’m looking to collaborate on tools that improve productivity
 - 💬 Ask me about anything <Tech, Wellness, Life>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so if you want to say <b>hi, I'm always happy to talk!</b></em>
-
----
+<em>I love connecting with people so if you want to say hi, I'm always happy to talk!</em>
