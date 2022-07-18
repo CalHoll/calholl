@@ -1,6 +1,6 @@
 ### Hi, I'm Calvin! 🇨🇦
 <img align='right' src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="220">
-<p><em>Creator of <a href="https://www.cheerly.app/">Cheerly</a></em></p>
+<p><em>Creator of <a href="https://www.cheerly.app/">Cheerly</a> and squasher of bugs.</em></p>
 
 ### About me...  
 
