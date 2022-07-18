@@ -4,6 +4,15 @@
 
 ### About me...  
 
+```javascript
+let calvin = Person(
+  language: ["Dart", "Typescript", "Go", "Bash"],
+  tools: ["flutter", "firebase", "aws", "docker", "gcloud", "Everything else"],
+  goal: "Build awesome tools that impact the world.",
+  interests: [ "Health", "Comedy", "Philosophy", "Music"]
+);
+```
+
 - 🔭 I’m currently working on a mobile app (Cheerly)
 - 🌱 I’m currently learning about growth hacking
 - 👯 I’m looking to collaborate on tools that improve productivity
