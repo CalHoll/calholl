@@ -8,8 +8,8 @@
 let calvin = Person(
   language: ["Dart", "Typescript", "Go", "Bash"],
   tools: ["flutter", "firebase", "aws", "docker", "gcloud", "Everything else"],
-  goal: "Build things that impact the world.",
-  interests: [ "Health", "Comedy", "Philosophy", "Music"]
+  goal: "Build things that make an impact.",
+  interests: [ "Health", "Future Tech", "Comedy", "Philosophy", "Music"]
 );
 ```
 
