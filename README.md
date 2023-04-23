@@ -6,8 +6,8 @@
 
 ```javascript
 let calvin = Person(
-  language: ["Dart", "Typescript", "Go", "Bash"],
-  tools: ["flutter", "firebase", "aws", "docker", "gcloud", "Everything else"],
+  language: ["Dart", "JS", "Typescript", "Go", "Bash"],
+  tools: ["flutter", "firebase", "aws", "k8s", "Everything else"],
   goal: "Build things that make an impact.",
   interests: [ "Health", "Future Tech", "Comedy", "Philosophy", "Music"]
 );
@@ -16,7 +16,7 @@ let calvin = Person(
 ---
 
 - 🔭 I’m currently working on a mobile app (Cheerly)
-- 🌱 I’m currently learning about growth hacking
+- 🌱 I’m currently learning about AI
 - 👯 I’m looking to collaborate on tools that improve productivity
 - 💬 Ask me about anything <Tech, Wellness, Life>
 
