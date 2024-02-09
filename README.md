@@ -1,4 +1,4 @@
-### Calvin here, 🇨🇦
+### Calvin here,
 <img align='right' src="https://media.giphy.com/media/pALw8LdftuqAw/giphy.gif" width="220">
 <p><em>Creator of <a href="https://www.cheerly.app/">Cheerly</a>, builder of teams, and squasher of bugs.</em></p>
 
